@@ -1,6 +1,6 @@
 package com.app.recyclerview.ux.dataclass
 
-data class FoodData(
+data class Food(
 
     val txtSubject: String,
     val txtCity: String,
